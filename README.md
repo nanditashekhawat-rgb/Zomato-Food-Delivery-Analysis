@@ -97,9 +97,10 @@ All visualizations are created using **Matplotlib & Seaborn**.
 
 
 
+This project uses the Zomato Bengaluru Restaurants Dataset, publicly available on Kaggle. The dataset contains restaurant details such as ratings, cuisines, cost, locality, and delivery options.
 
-
-Dataset source:
+🔗 Dataset Link:
 https://www.kaggle.com/datasets/sudhirnl7/zomato-bangalore-dataset
+
 
 
