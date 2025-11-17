@@ -1,4 +1,4 @@
-# 🍽️ Food Delivery Business Performance Analysis  
+#  Food Delivery Business Performance Analysis  
 ### **Data Analyst Portfolio Project | Zomato Bengaluru Dataset**
 
 This project analyzes restaurant performance, customer preferences, pricing, and delivery patterns using the **Zomato Bengaluru dataset**.  
@@ -6,7 +6,7 @@ It showcases complete Data Analytics workflow using **Python, Pandas, Matplotlib
 
 ---
 
-## 🚀 **Project Objectives**
+##  **Project Objectives**
 - Clean and preprocess real-world restaurant data  
 - Explore customer preferences and restaurant trends  
 - Analyze whether online ordering affects restaurant ratings  
@@ -15,7 +15,7 @@ It showcases complete Data Analytics workflow using **Python, Pandas, Matplotlib
 
 ---
 
-## 📂 **Dataset**
+##  **Dataset**
 **Source:** Kaggle – *Zomato Bangalore Restaurants*  
 **Rows:** ~50,000  
 **Columns:** 17  
@@ -25,7 +25,7 @@ It showcases complete Data Analytics workflow using **Python, Pandas, Matplotlib
 
 ---
 
-## 🛠️ **Tech Stack**
+##  **Tech Stack**
 - Python  
 - Pandas  
 - NumPy  
@@ -35,7 +35,7 @@ It showcases complete Data Analytics workflow using **Python, Pandas, Matplotlib
 
 ---
 
-## 🧹 **1. Data Cleaning Steps**
+##  **1. Data Cleaning Steps**
 - Removed invalid ratings (`NEW`, `-`)  
 - Converted ratings to numeric  
 - Cleaned cost column (removed commas, converted to float)  
@@ -45,7 +45,7 @@ It showcases complete Data Analytics workflow using **Python, Pandas, Matplotlib
 
 ---
 
-## 📊 **2. Exploratory Data Analysis (EDA)**
+##  **2. Exploratory Data Analysis (EDA)**
 
 ### **Top Cuisines**
 - North Indian is the most offered cuisine  
@@ -65,7 +65,7 @@ It showcases complete Data Analytics workflow using **Python, Pandas, Matplotlib
 
 ---
 
-## 📈 **3. Visualizations Included**
+##  **3. Visualizations Included**
 - Top 10 cuisines  
 - Top 10 restaurant types  
 - Highest-rated locations  
@@ -76,7 +76,7 @@ All visualizations are created using **Matplotlib & Seaborn**.
 
 ---
 
-## 🔍 **4. Key Business Insights**
+##  **4. Key Business Insights**
 - North Indian cuisine has the highest demand  
 - Quick Bites format fits Bengaluru's young working population  
 - Premium locations like Lavelle Road offer higher-rated restaurants  
@@ -85,7 +85,7 @@ All visualizations are created using **Matplotlib & Seaborn**.
 
 ---
 
-## 🧠 **5. Recommendations**
+##  **5. Recommendations**
 - Delivery apps should prioritize partnerships in high-rated zones  
 - Quick Bites + online delivery combination is most profitable  
 - More premium restaurants can be opened in Koramangala & Lavelle Road  
@@ -93,4 +93,13 @@ All visualizations are created using **Matplotlib & Seaborn**.
 
 ---
 
-## 📁 **Project Structure**
+## **Project Structure**
+
+
+
+
+
+Dataset source:
+https://www.kaggle.com/datasets/sudhirnl7/zomato-bangalore-dataset
+
+
